@@ -1,3 +1,9 @@
+# Meu Projeto
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-95%25-green)
+
+
 # projeto_pokemon
 
 ![Projeto-pokemon-sol](https://github.com/Sayonnara/projeto_pokemon/assets/95715855/2b7fc648-4c94-4371-95d9-9dc07f0e929e)
